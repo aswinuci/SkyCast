@@ -46,5 +46,5 @@ By default, it displays San Francisco's locaiton , but the User can view weather
 
 Copyright &copy; 2023 Aswin Sampath.
 
-Made with 💛 by Aswin Sampath
+Made with 💙 by Aswin Sampath
 
